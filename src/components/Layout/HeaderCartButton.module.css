@@ -1,0 +1,27 @@
+
+.cartbutton{
+    padding: .2rem .5rem;
+    border-radius: 10px;
+    border: none;
+    background-color: lightcoral;
+}
+
+.carticon{
+    color: rgb(98, 4, 4);
+    font-size: 1.2rem;
+    padding: 0 .25rem;
+}
+
+.cartText{
+    color: white;
+    font-size: 0.9rem;
+    padding: 0 .25rem;
+}
+
+.cartNumber{
+    border: none;
+    padding: .1rem .3rem;
+    border-radius: 10px;
+    background-color: rgb(214, 44, 44);
+    font-weight: 700;
+}

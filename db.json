@@ -1,0 +1,39 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "foodName": "Chicken Biryani",
+      "foodImage": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe-500x500.jpg",
+      "foodCategory":"Non-Veg",
+      "foodPrice":300
+    },
+    {
+      "id": 2,
+      "foodName": "Special Pizza",
+      "foodImage": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000",
+      "foodCategory":"Veg",
+      "foodPrice":400
+    },
+    {
+      "id": 3,
+      "foodName": "Mutton Biryani",
+      "foodImage": "https://imagevars.gulfnews.com/2021/01/05/Mutton-Biryani-_176d2faa265_medium.jpg",
+      "foodCategory":"Non-Veg",
+      "foodPrice":500
+    },
+    {
+      "id": 4,
+      "foodName": "Maggie",
+      "foodImage": "https://t4.ftcdn.net/jpg/03/67/31/89/360_F_367318954_4ttRBcmaa22q30OsJRqflxgCOd9dB9t6.jpg",
+      "foodCategory":"Veg",
+      "foodPrice":100
+    },
+    {
+      "id": 5,
+      "foodName": "Paneer Do Pyaza",
+      "foodImage": "https://static.toiimg.com/thumb/59628941.cms?imgsize=364393&width=800&height=800",
+      "foodCategory":"Veg",
+      "foodPrice":200
+    }
+  ]
+}
